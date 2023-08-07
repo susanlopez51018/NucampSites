@@ -29,4 +29,9 @@ footer {
 }
 .accordion-button {
     background-color: #d3d3d3;
-  }
+}
+.container-fluid {
+    text-align:justify;
+    margin-top:20px;
+    padding: 10px
+ }
